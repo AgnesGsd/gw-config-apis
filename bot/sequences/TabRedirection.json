@@ -11,7 +11,7 @@
         "fr": "Qu'est ce que tu aimerais faire?"
       },
       {
-        "es": "¿TBD?"
+        "es": "¿Qué quieres hacer?"
       }
     ],
     "Choices": [
@@ -44,7 +44,7 @@
             "fr": "Découvrir les Stickers"
           },
           {
-            "es": "Descubrir los Stickers"
+            "es": "Descargar Stickers"
           }
         ]
       }
